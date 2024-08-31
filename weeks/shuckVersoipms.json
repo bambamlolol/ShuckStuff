@@ -1,6 +1,9 @@
 {
 	"songs": [
-		["Shuck V1", "gf", [165, 0, 77]]
+		["Shuck V1", "gf", [165, 0, 77]],
+		["Shuck V2", "gf", [165, 0, 77]],
+		["Shuck FLP Mix", "gf", [165, 0, 77]],
+		["Shuck Early Wip", "gf", [165, 0, 77]]
 	],
 
 	"weekCharacters": [

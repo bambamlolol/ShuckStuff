@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [173, -95],
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "DETG_LEFT",
 			"indices": []
@@ -27,7 +27,7 @@
 		{
 			"loop": false,
 			"offsets": [291, 84],
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"fps": 24,
 			"name": "DETG_RIGHT",
 			"indices": []

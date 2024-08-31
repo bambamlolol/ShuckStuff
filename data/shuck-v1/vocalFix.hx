@@ -1,3 +1,3 @@
-function onCreatePost() {
-        vocals.volume = 0.5;
+function onUpdatePost(elapsed) {
+        game.vocals.volume = 0.4;
 }
