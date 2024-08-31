@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="marvin.png">
+<SubTexture name="marvin down0000" x="2915" y="576" width="378" height="573" frameX="-21" frameY="-44" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0001" x="381" y="1817" width="379" height="579" frameX="-23" frameY="-39" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0002" x="2158" y="1164" width="381" height="581" frameX="-25" frameY="-37" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0003" x="0" y="1817" width="381" height="581" frameX="-23" frameY="-36" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0004" x="2158" y="0" width="381" height="582" frameX="-25" frameY="-36" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0005" x="2158" y="582" width="381" height="582" frameX="-23" frameY="-35" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin down0006" x="2158" y="582" width="381" height="582" frameX="-23" frameY="-35" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0000" x="2539" y="0" width="376" height="576" frameX="-21" frameY="-41" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0001" x="0" y="2398" width="388" height="573" frameX="-16" frameY="-45" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0002" x="2915" y="0" width="381" height="576" frameX="-19" frameY="-42" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0003" x="760" y="1817" width="377" height="578" frameX="-20" frameY="-40" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0004" x="1137" y="1817" width="377" height="578" frameX="-20" frameY="-40" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0005" x="1514" y="1817" width="376" height="578" frameX="-20" frameY="-40" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin idle0006" x="1890" y="1817" width="376" height="578" frameX="-20" frameY="-40" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0000" x="1428" y="592" width="359" height="591" frameX="-8" frameY="-27" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0001" x="1795" y="591" width="360" height="590" frameX="-11" frameY="-28" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0002" x="1795" y="0" width="363" height="591" frameX="-12" frameY="-26" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0003" x="718" y="618" width="366" height="592" frameX="-12" frameY="-25" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0004" x="1428" y="0" width="367" height="592" frameX="-10" frameY="-24" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0005" x="1428" y="0" width="367" height="592" frameX="-10" frameY="-24" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin left0006" x="1428" y="0" width="367" height="592" frameX="-10" frameY="-24" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0000" x="1523" y="1226" width="384" height="585" frameX="-34" frameY="-38" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0001" x="1142" y="1226" width="381" height="586" frameX="-32" frameY="-37" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0002" x="760" y="1226" width="382" height="589" frameX="-29" frameY="-34" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0003" x="0" y="1226" width="380" height="591" frameX="-29" frameY="-32" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0004" x="380" y="1226" width="380" height="591" frameX="-28" frameY="-31" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0005" x="380" y="1226" width="380" height="591" frameX="-28" frameY="-31" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin right0006" x="380" y="1226" width="380" height="591" frameX="-28" frameY="-31" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0000" x="0" y="0" width="352" height="618" frameX="-25" frameY="0" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0001" x="352" y="0" width="358" height="614" frameX="-22" frameY="-4" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0002" x="710" y="0" width="359" height="611" frameX="-22" frameY="-7" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0003" x="1069" y="0" width="359" height="608" frameX="-22" frameY="-10" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0004" x="0" y="618" width="359" height="608" frameX="-22" frameY="-10" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0005" x="359" y="618" width="359" height="608" frameX="-21" frameY="-9" frameWidth="465" frameHeight="626" />
+<SubTexture name="marvin up0006" x="359" y="618" width="359" height="608" frameX="-21" frameY="-9" frameWidth="465" frameHeight="626" />
+</TextureAtlas>

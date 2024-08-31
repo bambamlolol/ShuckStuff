@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [173, -95],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DETG_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [164, -23],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DETG_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [520, 572],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DETG_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [291, 84],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DETG_RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [139, 42],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DETG_IDLE"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/shuckybitch",
+	"position": [30, 230],
+	"healthicon": "dbtg",
+	"flip_x": false,
+	"healthbar_colors": [232, 105, 34],
+	"camera_position": [-420, -200],
+	"sing_duration": 7.5,
+	"scale": 0.899999999999998,
+	"_editor_isPlayer": false
+}
