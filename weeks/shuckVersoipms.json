@@ -1,10 +1,11 @@
 {
 	"songs": [
-		["Shuck V1", "gf", [165, 0, 77]],
-		["Shuck V2", "gf", [165, 0, 77]],
-		["Early Shuck Without Lyrics", "gf", [165, 0, 77]],
-		["Shuck FLP Mix", "gf", [165, 0, 77]],
-		["Shuck Early Wip", "gf", [165, 0, 77]]
+		["Shuck V1", "dbtg", [231, 105, 34]],
+		["Shuck V2", "dbtg", [231, 105, 34]],
+		["Early Shuck Without Lyrics", "dbtg", [231, 105, 34]],
+		["Shuck FLP Mix", "dbtg", [231, 105, 34]],
+		["Shuck Early Wip", "dbtg", [231, 105, 34]],
+		["Shuck BF", "dbtg", [231, 105, 34]]
 	],
 
 	"weekCharacters": [
